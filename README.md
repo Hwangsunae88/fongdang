@@ -1,37 +1,15 @@
 # fongdang
++ 주 제 : 펀딩사이트 제작
++ 구현목표 :  펀딩사이트의 주요기능을 벤치마킹한 웹 사이트 구현
 
-# 펀딩사이트 
+## 목차
+[1. 개발환경](#개발환경)  
+[2. 프로젝트 설계주안점](#프로젝트-설계주안점)  
+[3. 구현 기능](#구현-기능)  
+[4. 팀원 및 주 담당 기능](#팀원-및-주-담당-기능) 
 
+## 개발환경
 
-# 개발환경
-* Language
-  * JAVA11
-  * Servlet/JSP
-  * HTML5
-  * CSS3
-  * JavaScript
-  * XML
-* Web Apllication Server
-  * Apache Tomcat 9.0
-* DaataBase
-  * Oracle 11.2.0
-* Framework & Open Api 
-  * Ajax
-  * jQuery
-  * KaKap API
-  * ojdbc6
-  * gson 2.8.6
-  * jstl 1.2
-  * common-fileupload
-  * common-io
-  * cloudinary
-  * mybatis
-  * 소셜(카카오,네이버)로그인API
-  * javax.mail API
-  * Kakao postcode Map API
-  * 사업자등록번호조회 API
-  * import payment API
-  * coolSms
   
   
   
