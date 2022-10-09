@@ -95,7 +95,7 @@ https://github.com/Hwangsunae88/fongdang/blob/b778339d3549602f449b6f58e9451d6cd1
 
 ## 팀원 및 주 담당 기능
 
-<img src="https://user-images.githubusercontent.com/98323305/194754285-db9d9c51-b9a8-4f69-b246-2dcbb8432d13.jpg" width="1000" height="500"/>
+<img src="https://user-images.githubusercontent.com/98323305/194754285-db9d9c51-b9a8-4f69-b246-2dcbb8432d13.jpg" width="700" height="350"/>
 
 ## ERD
 
