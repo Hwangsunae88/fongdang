@@ -11,7 +11,7 @@
 [4. 팀원 및 주 담당 기능](#팀원-및-주-담당-기능) 
 
 ## 개발환경
-![개발환경_파이널](https://user-images.githubusercontent.com/98323305/194753386-a7ab8c89-1351-4f42-b6f1-767cf00ed570.jpg)
+<img src="https://user-images.githubusercontent.com/98323305/194753386-a7ab8c89-1351-4f42-b6f1-767cf00ed570.jpg" width="400" height="500"/>
 
 ## 프로젝트 설계주안점
 
