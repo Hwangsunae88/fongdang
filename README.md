@@ -19,7 +19,10 @@
 + **1**
 
 ## 팀원 및 주 담당 기능
-[최종발표자료_팀원소개 업무분담.pdf](https://github.com/Hwangsunae88/Portfolio/files/9741383/_.pdf)
+
+![팀원 업무분담](https://user-images.githubusercontent.com/98323305/194753654-3c48a05d-f411-48b3-b75f-2616390671a3.jpg)
+
+
 ## 스토리보드
 
 ## 최종발표자료
