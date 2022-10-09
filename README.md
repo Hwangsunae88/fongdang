@@ -13,8 +13,9 @@
 [2. 프로젝트 설계주안점](#프로젝트-설계주안점)  
 [3. 구현 기능](#구현-기능)  
 [4. 팀원 및 주 담당 기능](#팀원-및-주-담당-기능)<br>
-[5. 스토리보드(pdf링크)](https://github.com/Hwangsunae88/fongdang/blob/7f7e839e9fd8fcf1a817b8540bea9597028fecd6/fongdang_%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C.pdf)<br>
-[6. 최종발표자료(pdf링크)](
+[5. UI설계서(pdf링크)](https://github.com/Hwangsunae88/fongdang/blob/bce3d834b03d3f4c4069bf27d775c8acde707ba9/fongdang_UI%20%EC%84%A4%EA%B3%84%EC%84%9C.pdf)<br>
+[6. 스토리보드(pdf링크)](https://github.com/Hwangsunae88/fongdang/blob/7f7e839e9fd8fcf1a817b8540bea9597028fecd6/fongdang_%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C.pdf)<br>
+[7. 최종발표자료(pdf링크)](
 https://github.com/Hwangsunae88/fongdang/blob/b778339d3549602f449b6f58e9451d6cd1d5285f/fongdang_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 <br>
 
@@ -96,6 +97,8 @@ https://github.com/Hwangsunae88/fongdang/blob/b778339d3549602f449b6f58e9451d6cd1
 <img src="https://user-images.githubusercontent.com/98323305/194754285-db9d9c51-b9a8-4f69-b246-2dcbb8432d13.jpg" width="1000" height="500"/>
 
 
+## UI 설계서
+[UI설계서(pdf링크)](https://github.com/Hwangsunae88/fongdang/blob/bce3d834b03d3f4c4069bf27d775c8acde707ba9/fongdang_UI%20%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
 
 ## 스토리보드
 [스토리보드(pdf링크)](https://github.com/Hwangsunae88/fongdang/blob/7f7e839e9fd8fcf1a817b8540bea9597028fecd6/fongdang_%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C.pdf) 
