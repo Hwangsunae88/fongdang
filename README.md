@@ -99,6 +99,8 @@
 https://github.com/Hwangsunae88/fongdang/blob/7f7e839e9fd8fcf1a817b8540bea9597028fecd6/fongdang_%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C.pdf) 
 
 ## 최종발표자료
+[최종발표자료.pdf](https://github.com/Hwangsunae88/fongdang/blob/b778339d3549602f449b6f58e9451d6cd1d5285f.pdf)
+
 [최종발표자료.pdf](https://github.com/Hwangsunae88/Portfolio/files/9741415/default.pdf)
   
   
