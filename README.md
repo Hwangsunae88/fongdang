@@ -64,7 +64,7 @@ https://github.com/Hwangsunae88/fongdang/blob/b778339d3549602f449b6f58e9451d6cd1
 - 텀블벅
 
 <p>
-<img src="https://user-images.githubusercontent.com/98323305/194753386-a7ab8c89-1351-4f42-b6f1-767cf00ed570.jpg" width="400" height="200"/>
+<img src="https://user-images.githubusercontent.com/98323305/194753386-a7ab8c89-1351-4f42-b6f1-767cf00ed570.jpg" width="600" height="350"/>
 </p>
 
 
