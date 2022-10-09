@@ -11,6 +11,7 @@
 [4. 팀원 및 주 담당 기능](#팀원-및-주-담당-기능) 
 
 ## 개발환경
+![개발환경_파이널](https://user-images.githubusercontent.com/98323305/194753386-a7ab8c89-1351-4f42-b6f1-767cf00ed570.jpg)
 
 ## 프로젝트 설계주안점
 
@@ -18,7 +19,7 @@
 + **1**
 
 ## 팀원 및 주 담당 기능
-
+[최종발표자료_팀원소개 업무분담.pdf](https://github.com/Hwangsunae88/Portfolio/files/9741383/_.pdf)
 ## 스토리보드
 
 ## 최종발표자료
