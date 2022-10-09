@@ -16,7 +16,7 @@
 
 ## 개발환경
 
-<img src="https://user-images.githubusercontent.com/98323305/194753386-a7ab8c89-1351-4f42-b6f1-767cf00ed570.jpg" width="1000" height="400"/>
+<img src="https://user-images.githubusercontent.com/98323305/194753386-a7ab8c89-1351-4f42-b6f1-767cf00ed570.jpg" width="900" height="400"/>
 
 
 ## 프로젝트 설계주안
@@ -45,7 +45,8 @@
 
 ## 팀원 및 주 담당 기능
 
-<img src="https://user-images.githubusercontent.com/98323305/194753654-3c48a05d-f411-48b3-b75f-2616390671a3.jpg" width="900" height="500"/>
+<img src="https://user-images.githubusercontent.com/98323305/194754285-db9d9c51-b9a8-4f69-b246-2dcbb8432d13.jpg" width="1000" height="500"/>
+
 
 
 ## 스토리보드
