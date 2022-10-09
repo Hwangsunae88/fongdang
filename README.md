@@ -6,7 +6,7 @@
 ```
 
 ## 목차
-[1. 개발환경](#개발환경)  
+[1. 개발환경 및 사용기술](#개발환경-및-사용기술)  
 [2. 프로젝트 설계주안점](#프로젝트-설계주안점)  
 [3. 구현 기능](#구현-기능)  
 [4. 팀원 및 주 담당 기능](#팀원-및-주-담당-기능)
@@ -14,9 +14,51 @@
 
 
 
-## 개발환경
+## 개발환경 및 사용기술
+[개발환경]
+- Apache Tomcat Web Server 9.0
+- Visual Studio Code 1.66
+- Spring tool suite 3 (Version: 3.9.18.RELEASE)
+- Get Started With Oracle Database 11g Express Edition / Oracle SQL Developer, Version:Oracle IDE 17.2.0, Oracle IDE 21.2.1 
+- listly(DB크롤링도구)
+- StarUML (Version: 5.0.1)
+- draw.io
 
-<img src="https://user-images.githubusercontent.com/98323305/194753386-a7ab8c89-1351-4f42-b6f1-767cf00ed570.jpg" width="900" height="400"/>
+[개발언어]
+- java(jdk-11.0.2)
+- HTML5
+- CSS3
+- JS(jquery-3.6.0)
+- ojdbc6
+- spring-jdbc
+- commons-dbcp
+- mybatis
+- mybatis-spring
+- gson-2.8.6
+- aspectjweaver
+- commons-io
+- commons-fileupload 
+
+[api]
+- 김연종 : 소셜(카카오, 네이버, 구글)로그인 API, javax.mail API
+- 황선애 :  uploadcare API, Kakao postcode Map API, 사업자등록번호조회 API
+- 이소윤 : uploadcare API, javax.mail API
+- 윤성훈 : Kakao postcode Map API
+- 김인곤 : import payment API, Kakao postcode Map API
+
+[OS 환경]
+- Windows 10 Pro/Home x64
+
+[참조사이트]
+- Bootstrap
+- wadiz
+- 크라우디
+- 텀블벅
+
+<p>
+<img src="https://user-images.githubusercontent.com/98323305/194753386-a7ab8c89-1351-4f42-b6f1-767cf00ed570.jpg" width="400" height="200"/>
+</p>
+
 
 
 ## 프로젝트 설계주안점
